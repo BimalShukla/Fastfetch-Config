@@ -1,4 +1,4 @@
-#  Fastfetch Configuration
+# 💻 Fastfetch Configuration
 
 🗓️ **Updated on:** _November, 2025_
 
