@@ -11,7 +11,7 @@ A custom **Fastfetch configuration** designed for personal use.
 ### Auto Installation
 Run this in terminal
    ```
-    gclone https://github.com/BimalShukla/Fastfetch-Config.git ~/Downloads/config
+    git clone https://github.com/BimalShukla/Fastfetch-Config.git ~/.config/fastfetch
    ```
 
 ### Manual Installation
